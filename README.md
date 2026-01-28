@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2026年1月28日</p>
 
-![2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+![2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典评价："我见过很多天才，他们都叫Claude天才"。用过的人普遍反馈Claude"超级聪明"、"理解能力一流"、"不管问题多复杂都能保持专注不跑题"。尤其是写代码这块，Claude几乎是公认的天花板——很多开发者表示用了之后就回不去了。Claude Pro还有个"扩展思考"模式，回答之前会先在脑子里想清楚，输出的内容逻辑严密、条理清晰，写文章几乎看不出AI味儿，这也是为什么越来越多人愿意为它付费的原因。
 
@@ -30,11 +30,11 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 "爱充值"是上海市奉贤区渐觉网络科技有限公司旗下的专业流媒体和AI工具合租平台，主打"现号秒发、安全稳定、价格实惠"。用户不用担心遇到收钱不办事或者卷款跑路的情况，安全性和稳定性都有保障。
 
-![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 "爱充值"提供的“Claude Pro账号购买”服务支持两种套餐，分别为1个月套餐和12个月套餐。其中，1个月套餐价格为240元/月，使用优惠码“ANYOFIA”可享九折优惠，折后价格为225元/月；12个月套餐价格为208元/月，现在使用优惠码“ANYOFIA”同样可享九折优惠，**折后价格为195元/月**。综合来看，我们更推荐大家直接选择12个月套餐，不仅可以省去每月续费的繁琐流程，而且整体性价比也会更高一些。
 
-![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
+![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
 
 值得注意的是，当按照系统提示完成付款后，"爱充值"会直接为你提供一个已完成订阅升级的Claude Pro原生独立账号，你拿到账号后即可直接登录使用，没有任何限制。同时，"爱充值"提供24小时在线客服支持，使用过程中如遇到任何问题，均可及时处理。此外，"爱充值"的所有服务均**提供全程质保（即包售后）**，并**支持开具正规发票**，适合企业采购及有开票需求的用户。
 
@@ -46,7 +46,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 "爱充值"的Claude Pro代充值服务目前仅支持按月充值，原价为230元/月。现在使用"爱充值"优惠码“ANYOFAI”还可享受九折优惠，**折后每月仅需216元**。
 
-![Claude充值教程：通过"爱充值"为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
+![Claude充值教程：通过"爱充值"为你现有Claude账号代充值](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
 
 需要注意的是，"爱充值"的Claude Pro代充值服务同样**提供全程质保（包售后）**，使用过程中如遇到任何问题，都可以联系在线客服协助解决。如果你有开具发票的需求，也可以**申请开具正规发票**。此外，在按照系统提示完成付款后，你需要主动联系"爱充值"的24小时在线客服，并提交你的Claude账号和密码，由"爱充值"的技术人员协助完成Claude Pro代充值。更多详细信息请参考：<a href="https://aichongzhi.org">Claude代充值</a>。
 
@@ -60,7 +60,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 在"爱充值"合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。"爱充值"的价格也十分实惠，Claude Pro镜像试用一天卡只要14元，镜像月卡也仅需130元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
 
-![Claude充值教程：通过"爱充值"合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
+![Claude充值教程：通过"爱充值"合租Claude Pro会员](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
 
 值得注意的是，"爱充值"也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（158元/月）、ChatGPT Plus代充值（174元/月）等服务，大家可以根据自己的需求进行选择。关于通过"爱充值"来合租Claude Pro会员的操作步骤，请参见：<a href="https://aichongzhi.org">Claude拼车</a>。
 
@@ -74,7 +74,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 * Claude Code拼车Max版：599元/月
 * Claude Code拼车Ultra版：999元/月
 
-![Claude充值教程：通过"爱充值"来使用Claude Code拼车服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
+![Claude充值教程：通过"爱充值"来使用Claude Code拼车服务](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
 
 小提示：更多关于通过"爱充值"购买Claude Code镜像服务的详细信息，请查看《<a href="https://aichongzhi.org">Claude Code拼车</a>》一文。
 
@@ -98,25 +98,25 @@ OK，当你准备好以上几样东西之后，接下来就可以按照下面的
 
 注意：你也可以使用现有的Google账号授权登录，直接点击“Continue with Google”即可。
 
-![Claude注册教程，注册Claude账号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-1.png)
+![Claude注册教程，注册Claude账号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-1.png)
 
 ### 第二步：输入邮箱验证码并点击“Verify Email Address”。
 
 打开你的电子邮箱，找到一封来自Anthropic的邮件，复制其中的验证码，将其粘贴到下方的输入框中，然后点击“Verify Email Address”按钮。
 
-![Claude注册教程，注册Claude账号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-2.png)
+![Claude注册教程，注册Claude账号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-2.png)
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
 注意：本文下方会手把手教大家如何通过“<a href="https://hero-sms.com/?ref=392863">Hero-SMS</a>”这一专业的接码平台获取国外虚拟手机号码。当你获取到国外虚拟手机号码后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮即可。
 
-![Claude注册教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
+![Claude注册教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
 注意：这里需要先返回Hero-SMS接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
-![Claude注册教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
+![Claude注册教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
 OK，当完成以上所有操作步骤后，你的Claude账号就注册成功了，接下来即可正式开始体验Claude提供的各项功能。不过，由于Claude基础账号在功能和使用额度上存在一定限制，如果你希望解锁更多高级功能，则需要订阅Claude Pro会员。我们推荐大家通过“**<a href="https://aichongzhi.org">"爱充值"</a>**”为Claude账号代充值！因为"爱充值"不仅安全可靠，而且订阅Claude Pro的成功率高，同时还提供全程质保，使用过程更有保障，大家可以放心选择。
 
@@ -130,33 +130,33 @@ Hero-SMS是一家来自俄罗斯的专业接码平台，主要提供来自全球
 
 * Hero-sms官网：<a href="https://hero-sms.com/?ref=392863">https://hero-sms.com/?ref=392863</a>
 
-![获取用于接收Claude验证码的国外虚拟手机号码第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-1.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-1.png)
 
 ### 第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-2.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-2.png)
 
 ### 第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-3.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-3.png)
 
 ### 第四步：点击导航栏中的“Get a number”选项。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第四步：点击导航栏中的“Get a number”选项](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-4.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第四步：点击导航栏中的“Get a number”选项](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-4.png)
 
 ### 第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
 
 ### 第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-6.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-6.png)
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
 注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Hero-SMS平台等待验证码。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/MartofAI/Claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
 最后需要提醒大家的是，如果你通过Hero-SMS平台购买的国外虚拟手机号码未能成功接收到验证码，Hero-SMS会自动退还此前支付的资金，因此无需担心资金损失。此外，由于Hero-SMS平台上的国外虚拟手机号码价格非常便宜，我们建议大家每次只充值3美元（最低充值金额为3美元），不要一次性充值过多。
 
