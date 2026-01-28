@@ -44,11 +44,35 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 除了直接买账号，你也可以让"爱充值"帮你给现有的Claude账号充值。这样原来的账号还能继续用，里面的对话记录和设置都还在，特别适合Claude重度用户。充完之后照样能用Claude Pro的全部功能，没有任何限制。
 
-代充值的价格是**188元/月**，想要更多优惠可以加客服微信问问。
+代充值的价格是**188元/月**，想要更多优惠可以加客服微信问问。代充值也是**全程质保（包售后）**，用的时候有任何问题找客服就行。需要发票的话也能**开正规发票**。
 
-![Claude充值教程：通过"爱充值"为你现有Claude账号代充值](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
+下面是详细的代充值操作步骤：
 
-代充值也是**全程质保（包售后）**，用的时候有任何问题找客服就行。需要发票的话也能**开正规发票**。付完款后记得主动联系"爱充值"的24小时在线客服，把你的Claude账号密码给他们，技术人员会帮你搞定充值。更多详情可以看：<a href="https://aichongzhi.org">Claude代充值</a>。
+### 第一步：打开"爱充值"官网，选择Claude服务
+
+打开 <a href="https://aichongzhi.org">aichongzhi.org</a>，在首页找到并选择「Claude Code 官方」服务，获取一个**卡密**。
+
+![Claude代充值教程第一步：打开"爱充值"官网，选择Claude服务获取卡密](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-%E6%AD%A5%E9%AA%A41-%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1.png)
+
+### 第二步：验证卡密
+
+按照页面提示，输入并验证你获取到的卡密。
+
+![Claude代充值教程第二步：验证卡密](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-%E6%AD%A5%E9%AA%A42-%E9%AA%8C%E8%AF%81%E5%8D%A1%E5%AF%86.png)
+
+### 第三步：进入Claude账号设置页面
+
+打开 <a href="https://claude.ai/settings/account">claude.ai/settings/account</a>，进入你的Claude账号设置页面。
+
+![Claude代充值教程第三步：进入Claude账号设置页面](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-%E6%AD%A5%E9%AA%A43-%E8%BF%9B%E5%85%A5%E8%AE%BE%E7%BD%AE.png)
+
+### 第四步：点击升级，完成充值
+
+点击「升级」按钮，等待约15秒左右，升级完成。之后就可以正常使用Claude Pro的全部功能了。
+
+![Claude代充值教程第四步：点击升级，完成充值](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-%E6%AD%A5%E9%AA%A44-%E5%8D%87%E7%BA%A7%E5%AE%8C%E6%88%90.png)
+
+如果在操作过程中遇到任何问题，可以随时联系"爱充值"的24小时在线客服。更多详情可以看：<a href="https://aichongzhi.org">Claude代充值</a>。
 
 <p align="center"><a href="https://aichongzhi.org">立即访问"爱充值"官网</a></p>
 
