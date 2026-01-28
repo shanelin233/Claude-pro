@@ -54,31 +54,30 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 ## 方法三、拼车合租Claude Pro会员（适合轻度用户）
 
-不少人要么翻不了墙，要么觉得每月20美金太贵，要么怕账号被封，所以想找个合租服务。合租平台里面，我们最推荐"**<a href="https://aichongzhi.org">"爱充值"</a>**"。
+不少人要么翻不了墙，要么觉得每月20美金太贵，要么怕账号被封，所以想找个合租服务。合租平台里面，我们最推荐"**<a href="https://nf.video/boYBG">银河录像局</a>**"（使用优惠码 **MartofAI** 可享优惠）。
 
-他们家已经服务了8000+客户，多年专注流媒体（Netflix、Disney+、HBO Max、Spotify等）和AI工具（ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租，口碑一直不错。
+"银河录像局"是一家专业的流媒体和AI工具合租平台，主打"现号秒发、安全稳定、价格实惠"。已经服务了大量客户，口碑一直不错。
 
-在"爱充值"合租Claude Pro，不用自己注册账号，不用单独订阅会员，不用折腾翻墙，也不用担心封号。价格也很实惠，日卡14块钱试用，月卡130块，轻轻松松就能体验Claude Pro的全部功能。
+在"银河录像局"合租Claude Pro，不用自己注册账号，不用单独订阅会员，不用折腾翻墙，也不用担心封号。价格也很实惠，轻轻松松就能体验Claude Pro的全部功能。
 
-![Claude充值教程：通过"爱充值"合租Claude Pro会员](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
+![Claude充值教程：通过"银河录像局"合租Claude Pro会员](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
 
-另外，"爱充值"还有ChatGPT Plus合租（27元/月）、账号购买（158元/月）、代充值（174元/月）等服务，按需选择就行。具体操作步骤可以看：<a href="https://aichongzhi.org">Claude拼车</a>。
+另外，"银河录像局"还有ChatGPT Plus合租、Netflix、Disney+、Spotify等多种服务。具体操作步骤可以看：<a href="https://nf.video/boYBG">Claude拼车</a>。
 
-<p align="center"><a href="https://aichongzhi.org">立即访问"爱充值"官网<a/></p>
+<p align="center"><a href="https://nf.video/boYBG">立即访问"银河录像局"官网</a> (优惠码: MartofAI)</p>
 
 ## 方法四：使用Claude Code拼车服务（适合程序员）
 
-如果你是个程序员，平时写代码经常用Claude Code，那"爱充值"的Claude Code拼车服务很适合你。**不用翻墙、不怕封号、价格比官方便宜**。买了之后照着教程操作，很快就能用上，省时省力还能提高干活效率。他们家有三种套餐，**都能用Claude 4.5 Sonnet和Claude Opus 4.5这些大模型**。
+如果你是个程序员，平时写代码经常用Claude Code，那"银河录像局"的Claude Code拼车服务很适合你。**不用翻墙、不怕封号、价格比官方便宜**。买了之后照着教程操作，很快就能用上，省时省力还能提高干活效率。
 
-* Claude Code拼车Pro版：299元/月
-* Claude 5x Max版：880元/月
-* Claude Code拼车Ultra版：999元/月
+* Claude Code拼车Pro版
+* Claude Team版拼车
 
-![Claude充值教程：通过"爱充值"来使用Claude Code拼车服务](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
+![Claude充值教程：通过"银河录像局"来使用Claude Code拼车服务](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
 
-想了解更多Claude Code镜像服务的细节，可以看看《<a href="https://aichongzhi.org">Claude Code拼车</a>》这篇文章。
+想了解更多Claude Code镜像服务的细节，可以看看《<a href="https://nf.video/boYBG">Claude Code拼车</a>》这篇文章。记得使用优惠码 **MartofAI**。
 
-<p align="center"><a href="https://aichongzhi.org">立即访问"爱充值"官网<a/></p>
+<p align="center"><a href="https://nf.video/boYBG">立即访问"银河录像局"官网</a> (优惠码: MartofAI)</p>
 
 ## 2026年国内如何注册Claude账号？
 
@@ -218,19 +217,19 @@ Anthropic从一开始就把"安全、可控、靠谱"当成核心方向，强调
 
 另外要特别注意的是，Anthropic根本就没对中国大陆用户开放Claude服务。很多人反映，网络环境一不稳定，或者老是换节点，账号分分钟就被封了。所以不管是注册账号、开通Pro会员还是日常使用，都建议全程用同一个稳定的美国节点，别来回切换。
 
-如果你搞不定科学上网，或者担心账号不稳定，也可以直接通过"<a href="https://aichongzhi.org">"爱充值"</a>"买个Claude Pro合租账号来用。这种合租号一般都配置好了网络环境，你不用自己折腾梯子，价格也相对便宜，轻度用户用着挺合适的。
+如果你搞不定科学上网，或者担心账号不稳定，也可以直接通过"<a href="https://nf.video/boYBG">银河录像局</a>"买个Claude Pro合租账号来用（优惠码 **MartofAI**）。这种合租号一般都配置好了网络环境，你不用自己折腾梯子，价格也相对便宜，轻度用户用着挺合适的。
 
 ### 在中国大陆如何使用Claude？
 
 Claude没有对国内用户开放，所以在大陆用Claude，网络、账号、支付这些问题都得自己想办法。根据不同的使用需求，有几种不同的解决思路。
 
-偶尔用用的话，比如写点东西、翻译一下、日常问问问题，通过"爱充值"搞个Claude Pro合租账号就行了。这种合租号网络环境都配好了，你不用管梯子的事，价格也便宜，轻度用户首选。
+偶尔用用的话，比如写点东西、翻译一下、日常问问问题，通过"银河录像局"搞个Claude Pro合租账号就行了。这种合租号网络环境都配好了，你不用管梯子的事，价格也便宜，轻度用户首选。别忘了用优惠码 **MartofAI**。
 
 如果你是重度用户，天天要用Claude写长文、生成代码、做研究分析什么的，那建议直接通过"爱充值"买个Claude Pro独立账号。独享账号额度更高、更稳定、用起来更放心，适合长期高频使用。
 
 已经有Claude账号的老用户，只是卡在支付这一步或者不想折腾订阅流程，可以让"爱充值"帮你代充值。不用换号，操作也简单，原来的数据都还在。
 
-程序员群体的话，如果主要是用Claude来写代码、代码补全、代码分析这些，可以考虑通过"爱充值"拼车用Claude Code。这种方式更适合编程场景，成本也更可控。
+程序员群体的话，如果主要是用Claude来写代码、代码补全、代码分析这些，可以考虑通过"银河录像局"拼车用Claude Code。这种方式更适合编程场景，成本也更可控。
 
 总之在国内用Claude，没有一招鲜吃遍天的办法。你是轻度用户还是重度用户，是新用户还是老用户，是普通用户还是程序员，适合的方案都不一样。搞清楚自己的需求，选对路子，才能用得舒心。
 
