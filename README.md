@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2026年1月28日</p>
 
-![2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+![2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude-Pro%E5%85%85%E5%80%BC%E8%AE%A2%E9%98%85%E6%94%BB%E7%95%A5-%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
 
 Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典评价："我见过很多天才，他们都叫Claude天才"。用过的人普遍反馈Claude"超级聪明"、"理解能力一流"、"不管问题多复杂都能保持专注不跑题"。尤其是写代码这块，Claude几乎是公认的天花板——很多开发者表示用了之后就回不去了。Claude Pro还有个"扩展思考"模式，回答之前会先在脑子里想清楚，输出的内容逻辑严密、条理清晰，写文章几乎看不出AI味儿，这也是为什么越来越多人愿意为它付费的原因。
 
@@ -30,11 +30,11 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 "爱充值"已经服务了8000+客户，是一家专业的流媒体和AI工具合租平台，主打"现号秒发、安全稳定、价格实惠"。用户不用担心遇到收钱不办事或者卷款跑路的情况，安全性和稳定性都有保障。
 
-![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E8%B4%AD%E4%B9%B0%E9%A6%96%E9%A1%B5.png)
 
 "爱充值"的Claude Pro账号有两种买法：按月买是**188元/月**，按年买是**178元/月**，年付更划算。想要更多优惠的话，也可以直接加客服微信问问。建议大家直接上年付套餐，省得每个月都要续费，整体算下来也更便宜。
 
-![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
+![Claude充值教程：通过"爱充值"购买Claude Pro账号](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E8%AF%A6%E6%83%85.png)
 
 付完款之后，"爱充值"会直接给你一个已经开通好的Claude Pro独立账号，拿到手就能用，没有任何限制。有问题随时找客服，24小时在线。而且他们家**全程质保（包售后）**，还能**开正规发票**，公司采购或者需要报销的都很方便。
 
@@ -46,7 +46,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 代充值的价格是**188元/月**，想要更多优惠可以加客服微信问问。
 
-![Claude充值教程：通过"爱充值"为你现有Claude账号代充值](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
+![Claude充值教程：通过"爱充值"为你现有Claude账号代充值](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E7%88%B1%E5%85%85%E5%80%BC-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC%E8%AF%A6%E6%83%85.png)
 
 代充值也是**全程质保（包售后）**，用的时候有任何问题找客服就行。需要发票的话也能**开正规发票**。付完款后记得主动联系"爱充值"的24小时在线客服，把你的Claude账号密码给他们，技术人员会帮你搞定充值。更多详情可以看：<a href="https://aichongzhi.org">Claude代充值</a>。
 
@@ -60,7 +60,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 在"银河录像局"合租Claude Pro，不用自己注册账号，不用单独订阅会员，不用折腾翻墙，也不用担心封号。价格也很实惠，轻轻松松就能体验Claude Pro的全部功能。
 
-![Claude充值教程：通过"银河录像局"合租Claude Pro会员](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
+![Claude充值教程：通过"银河录像局"合租Claude Pro会员](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F.png)
 
 另外，"银河录像局"还有ChatGPT Plus合租、Netflix、Disney+、Spotify等多种服务。具体操作步骤可以看：<a href="https://nf.video/boYBG">Claude拼车</a>。
 
@@ -73,7 +73,7 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 * Claude Code拼车Pro版
 * Claude Team版拼车
 
-![Claude充值教程：通过"银河录像局"来使用Claude Code拼车服务](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
+![Claude充值教程：通过"银河录像局"来使用Claude Code拼车服务](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6.png)
 
 想了解更多Claude Code镜像服务的细节，可以看看《<a href="https://nf.video/boYBG">Claude Code拼车</a>》这篇文章。记得使用优惠码 **MartofAI**。
 
@@ -91,75 +91,75 @@ Claude是Anthropic公司推出的AI助手，在程序员圈子里有一句经典
 
 好，东西都准备齐了的话，接下来跟着下面的步骤走就行。再提醒一遍：Gmail邮箱、翻墙工具、国外虚拟手机号，这三样一定要先准备好再开始。
 
-### 第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”。
+### 第一步：打开Claude官网，输入你的Gmail邮箱并选择登录方式。
 
 * Claude AI官网地址：claude.ai
 
-有Google账号的话，也可以直接点"Continue with Google"用谷歌账号登录，更方便。
+可以直接点击 "Continue with Google" 使用谷歌账号快捷登录（推荐），或者输入邮箱后点击 "Continue with email"。
 
-![Claude注册教程，注册Claude账号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-1.png)
+![Claude注册教程，注册Claude账号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B-1-%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
 
-### 第二步：输入邮箱验证码并点击“Verify Email Address”。
+### 第二步：完成邮箱验证，并同意隐私协议。
 
-打开邮箱，找到Anthropic发来的邮件，把验证码复制粘贴到输入框里，然后点"Verify Email Address"。
+如果使用邮箱登录，会收到一封包含验证码的邮件，填入验证码即可。随后会出现 "Let's create your account" 的页面，勾选同意条款（I agree to...），然后点击 "Continue"。
 
-![Claude注册教程，注册Claude账号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-2.png)
+![Claude注册教程，注册Claude账号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B-2-%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81.png)
 
-### 第三步：输入国外手机号码并点击“Send Verification Code”。
+### 第三步：输入国外手机号码进行验证。
 
-下面会教你怎么用"<a href="https://hero-sms.com/?ref=392863">Hero-SMS</a>"这个接码平台弄国外虚拟手机号。拿到号码后填进去，点"Send Verification Code"就行。
+系统会提示 "Verify your phone number"。这时候需要填入一个支持Claude验证的国外手机号。请参考下文的 [PingMe接码教程](#%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E7%94%A8%E4%BA%8E%E6%8E%A5%E6%94%B6claude%E9%AA%8C%E8%AF%81%E7%A0%81%E7%9A%84%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81) 获取号码。
 
-![Claude注册教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
+拿到号码后填入框内，点击 "Send verification code"。收到验证码后填入，即可完成注册。
 
-### 第四步：获取手机验证码并点击“Verify & Create Account”。
-
-这时候回到Hero-SMS平台，把收到的验证码复制下来，粘贴到输入框里，点"Verify & Create Account"，手机验证就搞定了。
-
-![Claude注册教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
+![Claude注册教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B-3-%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81.png)
 
 搞定以上步骤，Claude账号就注册好了，可以开始用了。不过免费版功能和额度都有限，想用更多高级功能的话还是得升级Claude Pro。推荐通过"**<a href="https://aichongzhi.org">"爱充值"</a>**"来充值，安全靠谱、成功率高、全程质保，放心用就完事了。
 
 ## 如何获取用于接收Claude验证码的国外虚拟手机号码？
 
-注册Claude必须验证手机号，但国内+86号码用不了，得找个能收Claude验证码的国外虚拟号。下面以"**<a href="https://hero-sms.com/?ref=392863">Hero-SMS</a>**"为例，教你怎么弄。
+注册Claude必须验证手机号，但国内+86号码用不了，得找个能收Claude验证码的国外虚拟号。下面以"**<a href="https://messages.pingme.tel/">PingMe</a>**"为例，教你怎么弄。
 
-Hero-SMS是俄罗斯的一个接码平台，提供全球各国的虚拟手机号，可以收Claude、Telegram、TikTok、Instagram、WhatsApp等各种平台的验证码。价格便宜，一个号几毛钱，还支持支付宝付款，对咱们来说很方便。
+PingMe是一个接码平台，提供全球各国的虚拟手机号，可以收Claude、Telegram、TikTok、Instagram、WhatsApp等各种平台的验证码。价格便宜，一个号几毛钱，还支持支付宝付款，对咱们来说很方便。
 
-### 第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册。
+### 第一步：打开“PingMe”官网，输入手机号完成注册/登录。
 
-* Hero-sms官网：<a href="https://hero-sms.com/?ref=392863">https://hero-sms.com/?ref=392863</a>
+* PingMe官网：<a href="https://messages.pingme.tel/">https://messages.pingme.tel/</a>
 
-![获取用于接收Claude验证码的国外虚拟手机号码第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-1.png)
+直接输入你的手机号码（支持+86），然后点击“获取验证码”。
 
-### 第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式。
+![获取用于接收Claude验证码的国外虚拟手机号码第一步：打开“PingMe”官网，输入手机号完成注册/登录](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81-PingMe-1-%E7%99%BB%E5%BD%95.png)
 
-![获取用于接收Claude验证码的国外虚拟手机号码第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-2.png)
+### 第二步：输入手机收到的验证码完成身份验证。
 
-### 第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款。
+查看手机短信，将收到的PingMe验证码填入网页，即可完成登录。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-3.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第二步：输入手机收到的验证码完成身份验证](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81-PingMe-2-%E9%AA%8C%E8%AF%81%E7%A0%81.png)
 
-### 第四步：点击导航栏中的“Get a number”选项。
+### 第三步：在后台点击“接收验证码”，选择“Claude”和“美国”地区。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第四步：点击导航栏中的“Get a number”选项](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-4.png)
+登录进入后台后，点击左侧或顶部的“接收验证码”按钮。
+1. 在“选择需要验证的APP/网站”中搜索并选择 **Claude**。
+2. 在“选择国家/地区”中选择 **美国（United States）**。
 
-### 第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买。
+![获取用于接收Claude验证码的国外虚拟手机号码第三步：在后台点击“接收验证码”，选择“Claude”和“美国”地区](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81-PingMe-3-%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1.png)
 
-![获取用于接收Claude验证码的国外虚拟手机号码第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
+### 第四步：获取生成的美国手机号码，并复制使用。
 
-### 第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码。
+系统会自动分配一个美国手机号给你。点击复制按钮，将这个号码填入Claude的注册页面进行验证。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-6.png)
+页面下方会显示“等待接收短信”的状态，一旦Claude发送验证码，这里就会显示出来。
 
-### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
+![获取用于接收Claude验证码的国外虚拟手机号码第四步：获取生成的美国手机号码，并复制使用](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81-PingMe-4-%E8%8E%B7%E5%8F%96%E5%8F%B7%E7%A0%81.png)
 
-点完"Send Verification Code"之后，回到Hero-SMS等验证码就行。
+### 第五步：返回Claude官网，使用该手机号验证，注册成功。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
+回到Claude页面，输入刚才复制的手机号，点击发送验证码。稍等片刻，回到PingMe页面查看收到的6位数验证码，填回去就搞定了。
 
-最后提醒一下：如果买的号没收到验证码，Hero-SMS会自动退款，不用担心钱打水漂。另外，这个平台号码便宜，建议每次只充3美元（最低额度），别一次充太多。
+![获取用于接收Claude验证码的国外虚拟手机号码第五步：返回Claude官网，使用该手机号验证，注册成功。](https://raw.githubusercontent.com/shanelin233/Claude-pro/main/image/Claude%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81-PingMe-5-%E9%AA%8C%E8%AF%81%E6%88%90%E5%8A%9F.png)
 
-<p align="center"><a href="https://hero-sms.com/?ref=392863">立即访问Hero-SMS官网</a></p>
+最后提醒一下：如果买的号没收到验证码，PingMe通常不会扣费（具体以平台规则为准）。另外，这个平台号码便宜，建议按需充值，别一次充太多。
+
+<p align="center"><a href="https://messages.pingme.tel/">立即访问PingMe官网</a></p>
 
 ## Claude注册和Claude充值相关常见问题
 
@@ -294,20 +294,9 @@ Claude的风控机制非常严格。它会检测你的IP地址、浏览器指纹
 * <a href="https://aichongzhi.org">ChatGPT充值</a>：最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！
 * <a href="https://aichongzhi.org">Gemini学生优惠</a>：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://aichongzhi.org">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://aichongzhi.org">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
-* <a href="https://aichongzhi.org">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何为Midjourney代充值？
-
-* <a href="https://aichongzhi.org">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
-* <a href="https://aichongzhi.org">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
-* <a href="https://aichongzhi.org">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
-* <a href="https://aichongzhi.org">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
-* <a href="https://aichongzhi.org">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需12元！
-* <a href="https://aichongzhi.org">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
+* <a href="https://nf.video/boYBG">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 
 * <a href="https://aichongzhi.org">ChatGPT注册</a>：最新ChatGPT注册教程：如何注册ChatGPT账号？如何购买ChatGPT账号？
-* <a href="https://aichongzhi.org">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，148元/月，提供全程质保，支持开具正规发票！
+* <a href="https://aichongzhi.org">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，168元/月，提供全程质保，支持开具正规发票！
 * <a href="https://aichongzhi.org">Claude Pro代充</a>：最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
-* <a href="https://aichongzhi.org">"爱充值"</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://aichongzhi.org">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
-
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
